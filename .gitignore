@@ -1,0 +1,7 @@
+proposal
+Mask
+Image
+*.pth
+report
+processed_data.zip
+processed_data/
