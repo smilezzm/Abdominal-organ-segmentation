@@ -35,7 +35,8 @@ The model achieves robust segmentation performance by combining:
 │   ├── med_segmentation.ipynb     # Main training notebook
 │   └── visualization.py           # Prediction visualization utilities
 ├── best_unet_model.pth            # Trained model weights
-└── README.md                       # This file
+├── README.md                       # This file
+└── report.pdf                     # Report including everything about this project
 ```
 
 ## 📊 Datasets
